@@ -38,6 +38,7 @@ p {
 }
 
 .holiday__picture {
+  /**/
   flex: 0 0 50%;
   width: 50%;
   margin: 0;
@@ -45,6 +46,7 @@ p {
 }
 
 .holiday__offer {
+  /**/
   height: 100%;
   flex: 0 0 50%;
   display: flex;
@@ -54,6 +56,7 @@ p {
 }
 
 .holiday__title {
+  /**/
   margin-bottom: 8px;
   font-size: 2rem;
   text-transform: uppercase;
@@ -67,6 +70,7 @@ p {
 }
 
 .holiday__description {
+  /**/
   margin-top: 8px;
   text-align: justify;
 }
@@ -77,6 +81,7 @@ p {
 }
 
 .holiday__price {
+  /**/
   width: 120px;
   height: 50px;
   border: 1.2px solid #4c61c6;
@@ -90,11 +95,13 @@ p {
 }
 
 .holiday__price--promo {
+  /**/
   background-color: #ffec88;
   border: 2px solid #dac658;
 }
 
 .holiday__book-btn {
+  /**/
   width: 120px;
   height: 50px;
   border: 1.2px solid #4c61c6;
